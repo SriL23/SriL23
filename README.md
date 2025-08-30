@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gude Srilakshmi Sowjanya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React js,mongodb**
+- 🔭 I’m currently working on **Full Stack Java**
 
-- 💬 Ask me about **html,css,javascript,c,java**
+- 💬 Ask me about **html,css,javascript,java**
 
-- 📫 How to reach me **srilakshmisowjanyag@gmail.com**
+- 📫 How to reach me **sowjanyagude2@gmail.com**
 
 - ⚡ Fun fact **I always love to eat food**
 
